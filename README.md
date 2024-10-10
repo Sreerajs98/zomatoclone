@@ -36,6 +36,8 @@ CSS3: Styling and visual design of the components.
       3.Click on Visit site /  paste the project Url in your browser and run
 
 
+                                      
+                                        
                                         Future Improvements
 
 API Integration: Connect with a restaurant API to display real-time restaurant data.
